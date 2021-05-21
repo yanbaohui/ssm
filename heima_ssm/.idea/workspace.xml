@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="heima_ssm_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8256529a-9f0d-4ad8-8c7a-239b802b5e75" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sWad04nCrKaTGXn1KGuMHCFIMS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heima_ssm_web/src/main/java/com/itheima/ssm/controller" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24727993" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\java\com\itheima\ssm\controller" />
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\webapp\pages" />
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\webapp\js" />
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\webapp" />
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\webapp\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ssm综合案例\heima_ssm\heima_ssm_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.ssm">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.utils.BCryptPasswordEncoderUtils" />
+      <module name="heima_ssm_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/heima_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      <item itemvalue="Maven.ssm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8256529a-9f0d-4ad8-8c7a-239b802b5e75" name="Default Changelist" comment="" />
+      <created>1620990882111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620990882111</updated>
+      <workItem from="1620990885202" duration="5539000" />
+      <workItem from="1620996483808" duration="4516000" />
+      <workItem from="1621084165345" duration="508000" />
+      <workItem from="1621085132126" duration="5901000" />
+      <workItem from="1621154043355" duration="3916000" />
+      <workItem from="1621158016589" duration="2166000" />
+      <workItem from="1621160214437" duration="8149000" />
+      <workItem from="1621226223954" duration="4126000" />
+      <workItem from="1621243969412" duration="4763000" />
+      <workItem from="1621256010254" duration="2904000" />
+      <workItem from="1621311574156" duration="2850000" />
+      <workItem from="1621341733282" duration="3533000" />
+      <workItem from="1621345316683" duration="475000" />
+      <workItem from="1621345814836" duration="286000" />
+      <workItem from="1621346120483" duration="9000" />
+      <workItem from="1621346150935" duration="5054000" />
+      <workItem from="1621403380794" duration="5757000" />
+      <workItem from="1621507267626" duration="1918000" />
+      <workItem from="1621570730977" duration="5041000" />
+      <workItem from="1621575826595" duration="989000" />
+      <workItem from="1621576839944" duration="1404000" />
+      <workItem from="1621578273333" duration="3473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
